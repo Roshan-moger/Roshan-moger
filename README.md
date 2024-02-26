@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="left" marginTop="20px>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
   </div>
 
-
+###
 
 <div align="left">
   <a href="https://www.instagram.com/roshan__moger/" target="_blank">
@@ -68,5 +68,5 @@
 </div>
 
 
-
+###
 
