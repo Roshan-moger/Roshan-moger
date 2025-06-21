@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FEC260&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Moger;Software+Engineer;1+Year+of+Experience;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FEC260&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshan+Moger;A+Passionate+Software+Engineer;Always+learning+new+tech!" alt="Typing SVG" />
 </h1>
 
-###
+<h3 align="center">💼 1+ Years of Experience | Problem Solver | Tech Enthusiast</h3>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-moger&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Langs" />
@@ -14,23 +16,22 @@
 
 <div align="center" style="margin-top: 20px">
   
-  <!-- MERN Stack -->
+  <!-- Key Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="16"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS" />
-  <img width="16"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
-  <img width="16"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  
   <br /><br />
 
-  <!-- Other Tech -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <!-- Additional Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="10"/>
@@ -79,11 +80,11 @@
 
 ### 💼 About Me
 
-- 🔭 I’m currently working on MERN Stack Projects  
-- 🌱 Exploring Cloud technologies & DevOps  
-- 📫 Reach me at: roshanmoger502@gmail.com  
-- 🧠 Constant Learner | Problem Solver  
-- ⚡ Fun Fact: I love coding late at night 🌙
+- 🔭 Currently working on full-stack web applications  
+- 💡 Interested in MERN Stack development  
+- 🧠 Passionate about writing clean, efficient code  
+- ✨ Always open to learning and improving  
+- ⚡ Fun Fact: I debug better at night 🌙
 
 ---
 
@@ -96,4 +97,4 @@
 
 ---
 
-> ⭐ *Let's build the future, one line of code at a time!*
+> 🚀 *Building elegant solutions through code, creativity, and consistency.*
