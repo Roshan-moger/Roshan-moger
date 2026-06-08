@@ -126,7 +126,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan-moger&show_icons=true&theme=dracula&hide_border=true" width="48%" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan-moger&theme=dracula&hide_border=true" width="48%" />
 </div>
